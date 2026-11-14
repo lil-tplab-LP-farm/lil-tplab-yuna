@@ -1,0 +1,6 @@
+.DS_Store
+chat/
+*.token
+.token
+CLAUDE.md
+handoff_*.md
